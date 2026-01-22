@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH KUMAR
 
 
-**Project Title: Big Data Analysis Using PySpark on Smart LMS Dataset**
+**PROJECT TITLE: BIG DATA ANALYSIS USING PYSPARK ON STUDENTS MARK DATASET**
 
 This project focuses on performing large-scale educational data analysis using Apache PySpark on a Smart Learning Management System (LMS) dataset. The primary objective was to demonstrate how big data technologies can efficiently process, analyze, and extract meaningful insights from large volumes of student academic and engagement records. All major operations such as data cleaning, preprocessing, transformation, aggregation, and statistical computation were carried out using PySpark’s distributed processing framework. Only small, aggregated datasets were converted into Pandas format for visualization purposes, ensuring scalability and performance were maintained throughout the analysis.
 
